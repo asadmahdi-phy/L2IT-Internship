@@ -1,0 +1,233 @@
+[
+  {
+    "mass_label": "M1e5",
+    "M": 100000.0,
+    "inj_id": 0,
+    "d_omega": 0.1,
+    "d_tau": 0.1,
+    "params_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/params_injection_set_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e5.h5",
+    "data_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e5/data_rom_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e5_id_0.h5",
+    "datalm_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e5/datalm_rom_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e5_id_0.h5",
+    "multiplier_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e5/multiplier_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e5_id_0.h5"
+  },
+  {
+    "mass_label": "M1e5",
+    "M": 100000.0,
+    "inj_id": 1,
+    "d_omega": 0.01,
+    "d_tau": 0.01,
+    "params_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/params_injection_set_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e5.h5",
+    "data_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e5/data_rom_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e5_id_1.h5",
+    "datalm_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e5/datalm_rom_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e5_id_1.h5",
+    "multiplier_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e5/multiplier_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e5_id_1.h5"
+  },
+  {
+    "mass_label": "M1e5",
+    "M": 100000.0,
+    "inj_id": 2,
+    "d_omega": 0.001,
+    "d_tau": 0.001,
+    "params_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/params_injection_set_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e5.h5",
+    "data_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e5/data_rom_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e5_id_2.h5",
+    "datalm_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e5/datalm_rom_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e5_id_2.h5",
+    "multiplier_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e5/multiplier_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e5_id_2.h5"
+  },
+  {
+    "mass_label": "M1e5",
+    "M": 100000.0,
+    "inj_id": 3,
+    "d_omega": 0.0001,
+    "d_tau": 0.0001,
+    "params_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/params_injection_set_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e5.h5",
+    "data_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e5/data_rom_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e5_id_3.h5",
+    "datalm_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e5/datalm_rom_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e5_id_3.h5",
+    "multiplier_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e5/multiplier_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e5_id_3.h5"
+  },
+  {
+    "mass_label": "M1e5",
+    "M": 100000.0,
+    "inj_id": 4,
+    "d_omega": 0.0,
+    "d_tau": 0.0,
+    "params_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/params_injection_set_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e5.h5",
+    "data_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e5/data_rom_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e5_id_4.h5",
+    "datalm_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e5/datalm_rom_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e5_id_4.h5",
+    "multiplier_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e5/multiplier_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e5_id_4.h5"
+  },
+  {
+    "mass_label": "M1e5",
+    "M": 100000.0,
+    "inj_id": 5,
+    "d_omega": 0.05,
+    "d_tau": 0.05,
+    "params_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/params_injection_set_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e5.h5",
+    "data_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e5/data_rom_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e5_id_5.h5",
+    "datalm_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e5/datalm_rom_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e5_id_5.h5",
+    "multiplier_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e5/multiplier_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e5_id_5.h5"
+  },
+  {
+    "mass_label": "M1e5",
+    "M": 100000.0,
+    "inj_id": 6,
+    "d_omega": 0.02,
+    "d_tau": 0.02,
+    "params_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/params_injection_set_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e5.h5",
+    "data_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e5/data_rom_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e5_id_6.h5",
+    "datalm_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e5/datalm_rom_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e5_id_6.h5",
+    "multiplier_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e5/multiplier_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e5_id_6.h5"
+  },
+  {
+    "mass_label": "M1e6",
+    "M": 1000000.0,
+    "inj_id": 0,
+    "d_omega": 0.1,
+    "d_tau": 0.1,
+    "params_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/params_injection_set_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e6.h5",
+    "data_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e6/data_rom_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e6_id_0.h5",
+    "datalm_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e6/datalm_rom_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e6_id_0.h5",
+    "multiplier_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e6/multiplier_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e6_id_0.h5"
+  },
+  {
+    "mass_label": "M1e6",
+    "M": 1000000.0,
+    "inj_id": 1,
+    "d_omega": 0.01,
+    "d_tau": 0.01,
+    "params_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/params_injection_set_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e6.h5",
+    "data_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e6/data_rom_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e6_id_1.h5",
+    "datalm_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e6/datalm_rom_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e6_id_1.h5",
+    "multiplier_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e6/multiplier_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e6_id_1.h5"
+  },
+  {
+    "mass_label": "M1e6",
+    "M": 1000000.0,
+    "inj_id": 2,
+    "d_omega": 0.001,
+    "d_tau": 0.001,
+    "params_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/params_injection_set_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e6.h5",
+    "data_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e6/data_rom_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e6_id_2.h5",
+    "datalm_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e6/datalm_rom_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e6_id_2.h5",
+    "multiplier_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e6/multiplier_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e6_id_2.h5"
+  },
+  {
+    "mass_label": "M1e6",
+    "M": 1000000.0,
+    "inj_id": 3,
+    "d_omega": 0.0001,
+    "d_tau": 0.0001,
+    "params_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/params_injection_set_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e6.h5",
+    "data_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e6/data_rom_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e6_id_3.h5",
+    "datalm_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e6/datalm_rom_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e6_id_3.h5",
+    "multiplier_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e6/multiplier_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e6_id_3.h5"
+  },
+  {
+    "mass_label": "M1e6",
+    "M": 1000000.0,
+    "inj_id": 4,
+    "d_omega": 0.0,
+    "d_tau": 0.0,
+    "params_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/params_injection_set_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e6.h5",
+    "data_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e6/data_rom_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e6_id_4.h5",
+    "datalm_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e6/datalm_rom_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e6_id_4.h5",
+    "multiplier_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e6/multiplier_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e6_id_4.h5"
+  },
+  {
+    "mass_label": "M1e6",
+    "M": 1000000.0,
+    "inj_id": 5,
+    "d_omega": 0.05,
+    "d_tau": 0.05,
+    "params_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/params_injection_set_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e6.h5",
+    "data_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e6/data_rom_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e6_id_5.h5",
+    "datalm_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e6/datalm_rom_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e6_id_5.h5",
+    "multiplier_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e6/multiplier_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e6_id_5.h5"
+  },
+  {
+    "mass_label": "M1e6",
+    "M": 1000000.0,
+    "inj_id": 6,
+    "d_omega": 0.02,
+    "d_tau": 0.02,
+    "params_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/params_injection_set_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e6.h5",
+    "data_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e6/data_rom_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e6_id_6.h5",
+    "datalm_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e6/datalm_rom_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e6_id_6.h5",
+    "multiplier_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e6/multiplier_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e6_id_6.h5"
+  },
+  {
+    "mass_label": "M1e7",
+    "M": 10000000.0,
+    "inj_id": 0,
+    "d_omega": 0.1,
+    "d_tau": 0.1,
+    "params_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/params_injection_set_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e7.h5",
+    "data_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e7/data_rom_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e7_id_0.h5",
+    "datalm_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e7/datalm_rom_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e7_id_0.h5",
+    "multiplier_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e7/multiplier_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e7_id_0.h5"
+  },
+  {
+    "mass_label": "M1e7",
+    "M": 10000000.0,
+    "inj_id": 1,
+    "d_omega": 0.01,
+    "d_tau": 0.01,
+    "params_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/params_injection_set_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e7.h5",
+    "data_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e7/data_rom_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e7_id_1.h5",
+    "datalm_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e7/datalm_rom_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e7_id_1.h5",
+    "multiplier_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e7/multiplier_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e7_id_1.h5"
+  },
+  {
+    "mass_label": "M1e7",
+    "M": 10000000.0,
+    "inj_id": 2,
+    "d_omega": 0.001,
+    "d_tau": 0.001,
+    "params_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/params_injection_set_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e7.h5",
+    "data_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e7/data_rom_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e7_id_2.h5",
+    "datalm_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e7/datalm_rom_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e7_id_2.h5",
+    "multiplier_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e7/multiplier_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e7_id_2.h5"
+  },
+  {
+    "mass_label": "M1e7",
+    "M": 10000000.0,
+    "inj_id": 3,
+    "d_omega": 0.0001,
+    "d_tau": 0.0001,
+    "params_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/params_injection_set_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e7.h5",
+    "data_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e7/data_rom_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e7_id_3.h5",
+    "datalm_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e7/datalm_rom_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e7_id_3.h5",
+    "multiplier_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e7/multiplier_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e7_id_3.h5"
+  },
+  {
+    "mass_label": "M1e7",
+    "M": 10000000.0,
+    "inj_id": 4,
+    "d_omega": 0.0,
+    "d_tau": 0.0,
+    "params_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/params_injection_set_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e7.h5",
+    "data_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e7/data_rom_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e7_id_4.h5",
+    "datalm_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e7/datalm_rom_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e7_id_4.h5",
+    "multiplier_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e7/multiplier_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e7_id_4.h5"
+  },
+  {
+    "mass_label": "M1e7",
+    "M": 10000000.0,
+    "inj_id": 5,
+    "d_omega": 0.05,
+    "d_tau": 0.05,
+    "params_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/params_injection_set_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e7.h5",
+    "data_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e7/data_rom_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e7_id_5.h5",
+    "datalm_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e7/datalm_rom_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e7_id_5.h5",
+    "multiplier_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e7/multiplier_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e7_id_5.h5"
+  },
+  {
+    "mass_label": "M1e7",
+    "M": 10000000.0,
+    "inj_id": 6,
+    "d_omega": 0.02,
+    "d_tau": 0.02,
+    "params_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/params_injection_set_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e7.h5",
+    "data_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e7/data_rom_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e7_id_6.h5",
+    "datalm_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e7/datalm_rom_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e7_id_6.h5",
+    "multiplier_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_domega_dtau_scan_M1e5_M1e6_M1e7_extra/M1e7/multiplier_pseob_ratio_phase_domega_dtau_scan_M1e5_M1e6_M1e7_extra_M1e7_id_6.h5"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "mass_label": "M1e6",
+    "M": 1000000.0,
+    "inj_id": 0,
+    "d_omega": 0.01,
+    "d_tau": 0.0001,
+    "params_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_dtau_fixed_0p01_domega_scan_M1e6_q4_3points/params_injection_set_dtau_fixed_0p01_domega_scan_M1e6_q4_3points_M1e6.h5",
+    "data_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_dtau_fixed_0p01_domega_scan_M1e6_q4_3points/M1e6/data_rom_pseob_ratio_phase_dtau_fixed_0p01_domega_scan_M1e6_q4_3points_M1e6_id_0.h5",
+    "datalm_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_dtau_fixed_0p01_domega_scan_M1e6_q4_3points/M1e6/datalm_rom_pseob_ratio_phase_dtau_fixed_0p01_domega_scan_M1e6_q4_3points_M1e6_id_0.h5",
+    "multiplier_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_dtau_fixed_0p01_domega_scan_M1e6_q4_3points/M1e6/multiplier_pseob_ratio_phase_dtau_fixed_0p01_domega_scan_M1e6_q4_3points_M1e6_id_0.h5"
+  },
+  {
+    "mass_label": "M1e6",
+    "M": 1000000.0,
+    "inj_id": 1,
+    "d_omega": 0.001,
+    "d_tau": 0.0001,
+    "params_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_dtau_fixed_0p01_domega_scan_M1e6_q4_3points/params_injection_set_dtau_fixed_0p01_domega_scan_M1e6_q4_3points_M1e6.h5",
+    "data_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_dtau_fixed_0p01_domega_scan_M1e6_q4_3points/M1e6/data_rom_pseob_ratio_phase_dtau_fixed_0p01_domega_scan_M1e6_q4_3points_M1e6_id_1.h5",
+    "datalm_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_dtau_fixed_0p01_domega_scan_M1e6_q4_3points/M1e6/datalm_rom_pseob_ratio_phase_dtau_fixed_0p01_domega_scan_M1e6_q4_3points_M1e6_id_1.h5",
+    "multiplier_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_dtau_fixed_0p01_domega_scan_M1e6_q4_3points/M1e6/multiplier_pseob_ratio_phase_dtau_fixed_0p01_domega_scan_M1e6_q4_3points_M1e6_id_1.h5"
+  },
+  {
+    "mass_label": "M1e6",
+    "M": 1000000.0,
+    "inj_id": 2,
+    "d_omega": 0.0001,
+    "d_tau": 0.0001,
+    "params_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_dtau_fixed_0p01_domega_scan_M1e6_q4_3points/params_injection_set_dtau_fixed_0p01_domega_scan_M1e6_q4_3points_M1e6.h5",
+    "data_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_dtau_fixed_0p01_domega_scan_M1e6_q4_3points/M1e6/data_rom_pseob_ratio_phase_dtau_fixed_0p01_domega_scan_M1e6_q4_3points_M1e6_id_2.h5",
+    "datalm_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_dtau_fixed_0p01_domega_scan_M1e6_q4_3points/M1e6/datalm_rom_pseob_ratio_phase_dtau_fixed_0p01_domega_scan_M1e6_q4_3points_M1e6_id_2.h5",
+    "multiplier_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/SEOBNRv5HMROM_times_pSEOB_ratio_phase_with_denom_condition_dtau_fixed_0p01_domega_scan_M1e6_q4_3points/M1e6/multiplier_pseob_ratio_phase_dtau_fixed_0p01_domega_scan_M1e6_q4_3points_M1e6_id_2.h5"
+  }
+]

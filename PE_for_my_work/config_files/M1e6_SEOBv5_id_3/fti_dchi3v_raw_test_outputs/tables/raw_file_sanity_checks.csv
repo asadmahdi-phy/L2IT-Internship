@@ -1,0 +1,23 @@
+check,passed,value
+Raw HDF5 file exists,True,/pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5_id_3M1e6_SEOBv5_id_3_fti_dchi3v_IMR_raw.h5
+JSON config exists,True,/pbs/home/a/amahdi/PE_for_my_work/config_files/M1e6_SEOBv5_id_3/M1e6_SEOBv5_id_3_fti_dchi3v_IMR.json
+Likelihood dataset loaded,True,lnlike
+Active FTI dataset loaded,True,fti_dchi3v
+All JSON infer_params loaded,True,[]
+At least 100 valid posterior samples,True,320000
+At least 1000 valid posterior samples,True,320000
+Finite posterior likelihoods,True,1.000000
+Nonzero likelihood range,True,22.947231072768822
+Valid-sample fraction above 50%,True,1.0
+Mchirp has nonzero variance,True,4.521218999593158
+q has nonzero variance,True,0.005202902559563833
+chiPN has nonzero variance,True,0.00037834468655986177
+chim has nonzero variance,True,0.0028847020626263844
+Deltat has nonzero variance,True,0.0991362618560576
+dist has nonzero variance,True,28.747212591231655
+inc has nonzero variance,True,0.0028242772294029884
+phi has nonzero variance,True,0.015992719325892104
+lambda has nonzero variance,True,0.003333524968858228
+beta has nonzero variance,True,0.0017678693135055356
+psi has nonzero variance,True,0.003953532356633275
+fti_dchi3v has nonzero variance,True,0.00043977950399545166

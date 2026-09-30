@@ -1,0 +1,15 @@
+dataset,basename,shape,ndim,dtype,size
+Deltat,Deltat,"(64, 10000)",2,float64,640000
+Mchirp,Mchirp,"(64, 10000)",2,float64,640000
+beta,beta,"(64, 10000)",2,float64,640000
+chiPN,chiPN,"(64, 10000)",2,float64,640000
+chim,chim,"(64, 10000)",2,float64,640000
+dist,dist,"(64, 10000)",2,float64,640000
+fti_dchi3v,fti_dchi3v,"(64, 10000)",2,float64,640000
+inc,inc,"(64, 10000)",2,float64,640000
+lambda,lambda,"(64, 10000)",2,float64,640000
+lnlike,lnlike,"(64, 10000)",2,float64,640000
+lnpost,lnpost,"(64, 10000)",2,float64,640000
+phi,phi,"(64, 10000)",2,float64,640000
+psi,psi,"(64, 10000)",2,float64,640000
+q,q,"(64, 10000)",2,float64,640000

@@ -1,0 +1,13 @@
+fti_case,fti_in_source_params,fti_source_value,fti_in_infer_params,fti_is_last_infer_param,fti_in_list_params,fti_is_last_list_param,fti_in_fisher_params,fti_is_last_fisher_param,fti_in_FTI_block_list,only_one_fti_in_source_params,number_of_infer_params,number_of_fisher_params
+fti_dchi0v,True,0,True,True,True,True,True,True,True,True,12,12
+fti_dchi1v,True,0,True,True,True,True,True,True,True,True,12,12
+fti_dchi2v,True,0,True,True,True,True,True,True,True,True,12,12
+fti_dchi3v,True,0,True,True,True,True,True,True,True,True,12,12
+fti_dchi4v,True,0,True,True,True,True,True,True,True,True,12,12
+fti_dchi5lv,True,0,True,True,True,True,True,True,True,True,12,12
+fti_dchi6lv,True,0,True,True,True,True,True,True,True,True,12,12
+fti_dchi6v,True,0,True,True,True,True,True,True,True,True,12,12
+fti_dchi7v,True,0,True,True,True,True,True,True,True,True,12,12
+fti_dchiMinus2v,True,0,True,True,True,True,True,True,True,True,12,12
+fti_dkappa_S,True,0,True,True,True,True,True,True,True,True,12,12
+fti_dxi0v,True,0,True,True,True,True,True,True,True,True,12,12

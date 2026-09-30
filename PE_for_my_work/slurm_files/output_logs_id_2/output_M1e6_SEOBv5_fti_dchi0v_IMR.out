@@ -1,0 +1,217 @@
+**********************************************************************
+*                         SLURM Batch System                         *
+*              IN2P3 Computing Centre, Villeurbanne FR               *
+**********************************************************************
+* Date:                 Tue Jul  7 09:53:44 AM CEST 2026
+* Job name:             M1e6_SEOBv5_fti_dchi0v_IMR
+* Job id:               53346647
+* User:                 amahdi
+* Account:              lisaf
+* Submit host:          ccwislurm0001
+* Partition:            htc
+* Quality of service:   normal
+* Nodelist:             ccwslurm0313
+* Operating System:     Red Hat Enterprise Linux release 9.7 (Plow)
+* Architecture:         x86_64
+**********************************************************************
+MPI rank/size: 10 / 24
+MPI rank/size: 18 / 24
+MPI rank/size: 14 / 24
+MPI rank/size: 7 / 24
+MPI rank/size: 21 / 24
+MPI rank/size: 19 / 24
+MPI rank/size: 16 / 24
+MPI rank/size: 20 / 24
+MPI rank/size: 5 / 24
+MPI rank/size: 22 / 24
+MPI rank/size: 12 / 24
+MPI rank/size: 11 / 24
+MPI rank/size: 17 / 24
+MPI rank/size: 3 / 24
+MPI rank/size: 4 / 24
+MPI rank/size: 23 / 24
+MPI rank/size: 15 / 24
+MPI rank/size: 9 / 24
+MPI rank/size: 13 / 24
+MPI rank/size: 6 / 24
+MPI rank/size: 2 / 24
+MPI rank/size: 8 / 24
+MPI rank/size: 0 / 24
+---------------
+ptemcee_smbh.py
+---------------
+[2026-07-07 09:53:51]
+Input file:
+/pbs/home/a/amahdi/PE_for_my_work/./config_files/M1e6_SEOBv5/M1e6_SEOBv5_fti_dchi0v_IMR.json
+MPI rank/size: 1 / 24
+Warning: output file /pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5M1e6_SEOBv5_fti_dchi0v_IMR.h5 exists, will be overwritten.
+Warning: output file /pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5M1e6_SEOBv5_fti_dchi0v_IMR.h5 exists, will be overwritten.
+Warning: output file /pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5M1e6_SEOBv5_fti_dchi0v_IMR.h5 exists, will be overwritten.
+Warning: output file /pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5M1e6_SEOBv5_fti_dchi0v_IMR.h5 exists, will be overwritten.
+Warning: output file /pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5M1e6_SEOBv5_fti_dchi0v_IMR.h5 exists, will be overwritten.
+Warning: output file /pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5M1e6_SEOBv5_fti_dchi0v_IMR.h5 exists, will be overwritten.
+Warning: output file /pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5M1e6_SEOBv5_fti_dchi0v_IMR.h5 exists, will be overwritten.
+Warning: output file /pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5M1e6_SEOBv5_fti_dchi0v_IMR.h5 exists, will be overwritten.
+Warning: output file /pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5M1e6_SEOBv5_fti_dchi0v_IMR.h5 exists, will be overwritten.
+Warning: output file /pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5M1e6_SEOBv5_fti_dchi0v_IMR.h5 exists, will be overwritten.
+Warning: output file /pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5M1e6_SEOBv5_fti_dchi0v_IMR.h5 exists, will be overwritten.
+Warning: output file /pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5M1e6_SEOBv5_fti_dchi0v_IMR.h5 exists, will be overwritten.
+Warning: output file /pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5M1e6_SEOBv5_fti_dchi0v_IMR.h5 exists, will be overwritten.
+Warning: output file /pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5M1e6_SEOBv5_fti_dchi0v_IMR.h5 exists, will be overwritten.
+Warning: output file /pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5M1e6_SEOBv5_fti_dchi0v_IMR.h5 exists, will be overwritten.
+Warning: output file /pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5M1e6_SEOBv5_fti_dchi0v_IMR.h5 exists, will be overwritten.
+Warning: output file /pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5M1e6_SEOBv5_fti_dchi0v_IMR.h5 exists, will be overwritten.
+Warning: output file /pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5M1e6_SEOBv5_fti_dchi0v_IMR.h5 exists, will be overwritten.
+Warning: output file /pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5M1e6_SEOBv5_fti_dchi0v_IMR.h5 exists, will be overwritten.
+Warning: output file /pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5M1e6_SEOBv5_fti_dchi0v_IMR.h5 exists, will be overwritten.
+Warning: output file /pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5M1e6_SEOBv5_fti_dchi0v_IMR.h5 exists, will be overwritten.
+Warning: output file /pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5M1e6_SEOBv5_fti_dchi0v_IMR.h5 exists, will be overwritten.
+Warning: output file /pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5M1e6_SEOBv5_fti_dchi0v_IMR.h5 exists, will be overwritten.
+Warning: output file /pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5M1e6_SEOBv5_fti_dchi0v_IMR.h5 exists, will be overwritten.
+Warning: raw output file /pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5M1e6_SEOBv5_fti_dchi0v_IMR_raw.h5 exists, will be overwritten.
+Warning: raw output file /pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5M1e6_SEOBv5_fti_dchi0v_IMR_raw.h5 exists, will be overwritten.
+Warning: raw output file /pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5M1e6_SEOBv5_fti_dchi0v_IMR_raw.h5 exists, will be overwritten.
+Warning: raw output file /pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5M1e6_SEOBv5_fti_dchi0v_IMR_raw.h5 exists, will be overwritten.
+Warning: raw output file /pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5M1e6_SEOBv5_fti_dchi0v_IMR_raw.h5 exists, will be overwritten.
+Warning: raw output file /pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5M1e6_SEOBv5_fti_dchi0v_IMR_raw.h5 exists, will be overwritten.
+Warning: raw output file /pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5M1e6_SEOBv5_fti_dchi0v_IMR_raw.h5 exists, will be overwritten.
+Warning: raw output file /pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5M1e6_SEOBv5_fti_dchi0v_IMR_raw.h5 exists, will be overwritten.
+Warning: raw output file /pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5M1e6_SEOBv5_fti_dchi0v_IMR_raw.h5 exists, will be overwritten.
+Warning: raw output file /pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5M1e6_SEOBv5_fti_dchi0v_IMR_raw.h5 exists, will be overwritten.
+Warning: raw output file /pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5M1e6_SEOBv5_fti_dchi0v_IMR_raw.h5 exists, will be overwritten.
+Warning: raw output file /pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5M1e6_SEOBv5_fti_dchi0v_IMR_raw.h5 exists, will be overwritten.
+Warning: raw output file /pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5M1e6_SEOBv5_fti_dchi0v_IMR_raw.h5 exists, will be overwritten.
+Warning: raw output file /pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5M1e6_SEOBv5_fti_dchi0v_IMR_raw.h5 exists, will be overwritten.
+Warning: raw output file /pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5M1e6_SEOBv5_fti_dchi0v_IMR_raw.h5 exists, will be overwritten.
+Warning: raw output file /pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5M1e6_SEOBv5_fti_dchi0v_IMR_raw.h5 exists, will be overwritten.
+Warning: raw output file /pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5M1e6_SEOBv5_fti_dchi0v_IMR_raw.h5 exists, will be overwritten.
+Warning: raw output file /pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5M1e6_SEOBv5_fti_dchi0v_IMR_raw.h5 exists, will be overwritten.
+Warning: raw output file /pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5M1e6_SEOBv5_fti_dchi0v_IMR_raw.h5 exists, will be overwritten.
+Warning: raw output file /pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5M1e6_SEOBv5_fti_dchi0v_IMR_raw.h5 exists, will be overwritten.
+Warning: raw output file /pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5M1e6_SEOBv5_fti_dchi0v_IMR_raw.h5 exists, will be overwritten.
+Warning: raw output file /pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5M1e6_SEOBv5_fti_dchi0v_IMR_raw.h5 exists, will be overwritten.
+Warning: raw output file /pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5M1e6_SEOBv5_fti_dchi0v_IMR_raw.h5 exists, will be overwritten.
+Warning: raw output file /pbs/home/a/amahdi/PE_for_my_work/run_data/M1e6_SEOBv5M1e6_SEOBv5_fti_dchi0v_IMR_raw.h5 exists, will be overwritten.
+Source parameters SSBframe:
+{'M': 1000000.0, 'q': 4, 'chi1': 0.5, 'chi2': 0.5, 'Deltat': np.float64(-99.33296301054862), 'dist': 6791.810623950696, 'inc': 1.0471975511965976, 'phi': 0.7, 'lambda': np.float64(1.8374291508197478), 'beta': np.float64(0.7144661912870978), 'psi': np.float64(2.504143725710313), 'Lframe': False, 'fti_dchi0v': 0, 'm1': 800000.0, 'm2': 200000.0, 'Mchirp': np.float64(333021.2829607493), 'eta': 0.16, 'chis': 0.5, 'chia': 0.0, 'chip': 0.5, 'chim': 0.30000000000000004, 'chiPN': 0.44619469026548675}
+Source parameters Lframe:
+{'M': 1000000.0, 'q': 4, 'chi1': 0.5, 'chi2': 0.5, 'Deltat': 0.0, 'dist': 6791.810623950696, 'inc': 1.0471975511965976, 'phi': 0.7, 'lambda': 1.0, 'beta': 0.5235987755982988, 'psi': 1.2, 'Lframe': True, 'fti_dchi0v': 0, 'm1': 800000.0, 'm2': 200000.0, 'Mchirp': np.float64(333021.2829607493), 'eta': 0.16, 'chis': 0.5, 'chia': 0.0, 'chip': 0.5, 'chim': 0.30000000000000004, 'chiPN': 0.44619469026548675}
+Computing Fisher matrix...
+Threshold max(t(SNR=1), 1d) used for Fisher: 0.842895 yr
+Fisher covariance matrix:
+[[ 8.11061875e+03  3.05927546e-03  1.17551726e-03  1.16365730e-01
+  -3.03380078e+00  2.79174046e+02  2.26442432e-02  5.04465459e-01
+  -3.07805094e-02  3.51845823e-02  1.47143118e-02 -4.13194282e-02]
+ [ 3.05927546e-03  2.17506513e-05  8.17005477e-07  4.60607887e-06
+  -2.88338156e-04  4.37517789e-02 -4.01379545e-06  6.86345450e-05
+   4.45009299e-06  1.43153538e-06  6.34139905e-06 -6.41724817e-09]
+ [ 1.17551726e-03  8.17005477e-07  9.15924277e-08 -3.06173988e-07
+  -2.31374004e-05  1.53085951e-03 -2.29365875e-07  2.67891264e-06
+   2.67571135e-07 -3.56895934e-08  2.23421584e-07 -1.33463675e-09]
+ [ 1.16365730e-01  4.60607887e-06 -3.06173988e-07  6.92567796e-06
+   1.30257430e-05  1.31681191e-02  2.27771890e-07  2.12885787e-05
+  -4.48190397e-07  1.49136817e-06  1.48687258e-06 -6.22791168e-07]
+ [-3.03380078e+00 -2.88338156e-04 -2.31374004e-05  1.30257430e-05
+   9.10364774e-03 -6.89933198e-01  6.54125195e-05 -1.10499268e-03
+  -7.33960630e-05 -1.40150908e-05 -9.45970281e-05  1.46900179e-05]
+ [ 2.79174046e+02  4.37517789e-02  1.53085951e-03  1.31681191e-02
+  -6.89933198e-01  7.84616811e+02 -6.79731798e-02  1.69455854e-01
+   7.52347855e-02  2.53293505e-02  9.99625436e-02 -1.44129653e-03]
+ [ 2.26442432e-02 -4.01379545e-06 -2.29365875e-07  2.27771890e-07
+   6.54125195e-05 -6.79731798e-02  8.05865778e-06 -1.12849141e-05
+  -8.97796757e-06 -2.00269667e-07 -9.32510097e-06 -1.20538034e-07]
+ [ 5.04465459e-01  6.86345450e-05  2.67891264e-06  2.12885787e-05
+  -1.10499268e-03  1.69455854e-01 -1.12849141e-05  2.49106878e-04
+   1.20529051e-05  8.42599640e-06  2.30422695e-05 -2.53804049e-06]
+ [-3.07805094e-02  4.45009299e-06  2.67571135e-07 -4.48190397e-07
+  -7.33960630e-05  7.52347855e-02 -8.97796757e-06  1.20529051e-05
+   1.13756728e-05 -1.79789142e-08  1.15479087e-05  1.63370604e-07]
+ [ 3.51845823e-02  1.43153538e-06 -3.56895934e-08  1.49136817e-06
+  -1.40150908e-05  2.53293505e-02 -2.00269667e-07  8.42599640e-06
+  -1.79789142e-08  2.90642563e-06  2.54089715e-06 -1.86404800e-07]
+ [ 1.47143118e-02  6.34139905e-06  2.23421584e-07  1.48687258e-06
+  -9.45970281e-05  9.99625436e-02 -9.32510097e-06  2.30422695e-05
+   1.15479087e-05  2.54089715e-06  1.49950754e-05 -7.74044442e-08]
+ [-4.13194282e-02 -6.41724817e-09 -1.33463675e-09 -6.22791168e-07
+   1.46900179e-05 -1.44129653e-03 -1.20538034e-07 -2.53804049e-06
+   1.63370604e-07 -1.86404800e-07 -7.74044442e-08  2.10928715e-07]]
+Running ptemcee...
+Running plan: dict for (n_iter, burn_in, n_temps, temp_max, temp_factor) each given as a list for successive blocks
+{'n_iter': [5000], 'burn_in': [2500], 'n_temps': [10], 'temp_max': [None], 'temp_factor': [1.0]}
+[2026-07-07 09:54:05] Block 0: [n_iter, burn_in, n_temps, temp_max, temp_factor] = [5000, 2500, 10, None, 1.000000e+00]
+[2026-07-07 09:54:08] [iter:    1/5000] [                                                  ] [  0.0%]
+[2026-07-07 09:59:12] [iter:  101/5000] [=                                                 ] [  2.0%]
+[2026-07-07 10:04:20] [iter:  201/5000] [==                                                ] [  4.0%]
+[2026-07-07 10:09:35] [iter:  301/5000] [===                                               ] [  6.0%]
+[2026-07-07 10:14:46] [iter:  401/5000] [====                                              ] [  8.0%]
+[2026-07-07 10:19:40] [iter:  501/5000] [=====                                             ] [ 10.0%]
+[2026-07-07 10:24:22] [iter:  601/5000] [======                                            ] [ 12.0%]
+[2026-07-07 10:28:55] [iter:  701/5000] [=======                                           ] [ 14.0%]
+[2026-07-07 10:33:27] [iter:  801/5000] [========                                          ] [ 16.0%]
+[2026-07-07 10:38:10] [iter:  901/5000] [=========                                         ] [ 18.0%]
+[2026-07-07 10:42:53] [iter: 1001/5000] [==========                                        ] [ 20.0%]
+[2026-07-07 10:47:42] [iter: 1101/5000] [===========                                       ] [ 22.0%]
+[2026-07-07 10:52:57] [iter: 1201/5000] [============                                      ] [ 24.0%]
+[2026-07-07 10:58:11] [iter: 1301/5000] [=============                                     ] [ 26.0%]
+[2026-07-07 11:03:36] [iter: 1401/5000] [==============                                    ] [ 28.0%]
+[2026-07-07 11:08:42] [iter: 1501/5000] [===============                                   ] [ 30.0%]
+[2026-07-07 11:13:56] [iter: 1601/5000] [================                                  ] [ 32.0%]
+[2026-07-07 11:19:10] [iter: 1701/5000] [=================                                 ] [ 34.0%]
+[2026-07-07 11:24:33] [iter: 1801/5000] [==================                                ] [ 36.0%]
+[2026-07-07 11:29:55] [iter: 1901/5000] [===================                               ] [ 38.0%]
+[2026-07-07 11:35:22] [iter: 2001/5000] [====================                              ] [ 40.0%]
+[2026-07-07 11:41:20] [iter: 2101/5000] [=====================                             ] [ 42.0%]
+[2026-07-07 11:47:39] [iter: 2201/5000] [======================                            ] [ 44.0%]
+[2026-07-07 11:53:40] [iter: 2301/5000] [=======================                           ] [ 46.0%]
+[2026-07-07 11:59:23] [iter: 2401/5000] [========================                          ] [ 48.0%]
+[2026-07-07 12:05:13] [iter: 2501/5000] [=========================                         ] [ 50.0%]
+[2026-07-07 12:10:53] [iter: 2601/5000] [==========================                        ] [ 52.0%]
+[2026-07-07 12:16:36] [iter: 2701/5000] [===========================                       ] [ 54.0%]
+[2026-07-07 12:22:27] [iter: 2801/5000] [============================                      ] [ 56.0%]
+[2026-07-07 12:28:28] [iter: 2901/5000] [=============================                     ] [ 58.0%]
+[2026-07-07 12:34:09] [iter: 3001/5000] [==============================                    ] [ 60.0%]
+[2026-07-07 12:40:08] [iter: 3101/5000] [===============================                   ] [ 62.0%]
+[2026-07-07 12:46:01] [iter: 3201/5000] [================================                  ] [ 64.0%]
+[2026-07-07 12:51:51] [iter: 3301/5000] [=================================                 ] [ 66.0%]
+[2026-07-07 12:57:38] [iter: 3401/5000] [==================================                ] [ 68.0%]
+[2026-07-07 13:03:29] [iter: 3501/5000] [===================================               ] [ 70.0%]
+[2026-07-07 13:09:17] [iter: 3601/5000] [====================================              ] [ 72.0%]
+[2026-07-07 13:15:16] [iter: 3701/5000] [=====================================             ] [ 74.0%]
+[2026-07-07 13:21:07] [iter: 3801/5000] [======================================            ] [ 76.0%]
+[2026-07-07 13:27:18] [iter: 3901/5000] [=======================================           ] [ 78.0%]
+[2026-07-07 13:33:19] [iter: 4001/5000] [========================================          ] [ 80.0%]
+[2026-07-07 13:39:17] [iter: 4101/5000] [=========================================         ] [ 82.0%]
+[2026-07-07 13:45:21] [iter: 4201/5000] [==========================================        ] [ 84.0%]
+[2026-07-07 13:51:25] [iter: 4301/5000] [===========================================       ] [ 86.0%]
+[2026-07-07 13:57:31] [iter: 4401/5000] [============================================      ] [ 88.0%]
+[2026-07-07 14:03:43] [iter: 4501/5000] [=============================================     ] [ 90.0%]
+[2026-07-07 14:09:30] [iter: 4601/5000] [==============================================    ] [ 92.0%]
+[2026-07-07 14:15:22] [iter: 4701/5000] [===============================================   ] [ 94.0%]
+[2026-07-07 14:21:20] [iter: 4801/5000] [================================================  ] [ 96.0%]
+[2026-07-07 14:27:24] [iter: 4901/5000] [================================================= ] [ 98.0%]
+[2026-07-07 14:33:41] [iter: 5000/5000] [==================================================] [100.0%]
+Post-processing block 0
+Autocorrelation length for Mchirp: 298.059
+Autocorrelation length for q: 230.754
+Autocorrelation length for chiPN: 280.313
+Autocorrelation length for chim: 327.172
+Autocorrelation length for Deltat: 182.693
+Autocorrelation length for dist: 324.049
+Autocorrelation length for inc: 302.897
+Autocorrelation length for phi: 204.741
+Autocorrelation length for lambda: 207.682
+Autocorrelation length for beta: 304.167
+Autocorrelation length for psi: 257.096
+Autocorrelation length for fti_dchi0v: 312.955
+Autocorrelation thinning: 328
+****************************************************************
+*                      SLURM Batch System                      *
+*           IN2P3 Computing Centre, Villeurbanne FR            *
+****************************************************************
+Date: Tue Jul  7 02:33:46 PM CEST 2026
+Job informations can be found using these commands:
+Accounting:
+sacct -j 53346647
+Efficiency:
+seff 53346647
+****************************************************************

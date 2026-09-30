@@ -1,0 +1,54 @@
+[
+  {
+    "mass_label": "M1e6",
+    "M": 1000000.0,
+    "q_label": "q1",
+    "q": 1.0,
+    "case_id": 0,
+    "d_omega": 0.01,
+    "d_tau": 0.01,
+    "params_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/Mass_ratio/SEOBNRv5HMROM_times_pSEOB_ratio_domega_dtau_M1e6_q1_q2_q3_q4/params_injection_set_domega_dtau_M1e6_q1_q2_q3_q4.h5",
+    "data_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/Mass_ratio/SEOBNRv5HMROM_times_pSEOB_ratio_domega_dtau_M1e6_q1_q2_q3_q4/q1/data_rom_pseob_ratio_phase_domega_dtau_M1e6_q1_q2_q3_q4_M1e6_q1_id_0.h5",
+    "datalm_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/Mass_ratio/SEOBNRv5HMROM_times_pSEOB_ratio_domega_dtau_M1e6_q1_q2_q3_q4/q1/datalm_rom_pseob_ratio_phase_domega_dtau_M1e6_q1_q2_q3_q4_M1e6_q1_id_0.h5",
+    "multiplier_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/Mass_ratio/SEOBNRv5HMROM_times_pSEOB_ratio_domega_dtau_M1e6_q1_q2_q3_q4/q1/multiplier_pseob_ratio_phase_domega_dtau_M1e6_q1_q2_q3_q4_M1e6_q1_id_0.h5"
+  },
+  {
+    "mass_label": "M1e6",
+    "M": 1000000.0,
+    "q_label": "q2",
+    "q": 2.0,
+    "case_id": 1,
+    "d_omega": 0.01,
+    "d_tau": 0.01,
+    "params_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/Mass_ratio/SEOBNRv5HMROM_times_pSEOB_ratio_domega_dtau_M1e6_q1_q2_q3_q4/params_injection_set_domega_dtau_M1e6_q1_q2_q3_q4.h5",
+    "data_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/Mass_ratio/SEOBNRv5HMROM_times_pSEOB_ratio_domega_dtau_M1e6_q1_q2_q3_q4/q2/data_rom_pseob_ratio_phase_domega_dtau_M1e6_q1_q2_q3_q4_M1e6_q2_id_1.h5",
+    "datalm_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/Mass_ratio/SEOBNRv5HMROM_times_pSEOB_ratio_domega_dtau_M1e6_q1_q2_q3_q4/q2/datalm_rom_pseob_ratio_phase_domega_dtau_M1e6_q1_q2_q3_q4_M1e6_q2_id_1.h5",
+    "multiplier_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/Mass_ratio/SEOBNRv5HMROM_times_pSEOB_ratio_domega_dtau_M1e6_q1_q2_q3_q4/q2/multiplier_pseob_ratio_phase_domega_dtau_M1e6_q1_q2_q3_q4_M1e6_q2_id_1.h5"
+  },
+  {
+    "mass_label": "M1e6",
+    "M": 1000000.0,
+    "q_label": "q3",
+    "q": 3.0,
+    "case_id": 2,
+    "d_omega": 0.01,
+    "d_tau": 0.01,
+    "params_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/Mass_ratio/SEOBNRv5HMROM_times_pSEOB_ratio_domega_dtau_M1e6_q1_q2_q3_q4/params_injection_set_domega_dtau_M1e6_q1_q2_q3_q4.h5",
+    "data_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/Mass_ratio/SEOBNRv5HMROM_times_pSEOB_ratio_domega_dtau_M1e6_q1_q2_q3_q4/q3/data_rom_pseob_ratio_phase_domega_dtau_M1e6_q1_q2_q3_q4_M1e6_q3_id_2.h5",
+    "datalm_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/Mass_ratio/SEOBNRv5HMROM_times_pSEOB_ratio_domega_dtau_M1e6_q1_q2_q3_q4/q3/datalm_rom_pseob_ratio_phase_domega_dtau_M1e6_q1_q2_q3_q4_M1e6_q3_id_2.h5",
+    "multiplier_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/Mass_ratio/SEOBNRv5HMROM_times_pSEOB_ratio_domega_dtau_M1e6_q1_q2_q3_q4/q3/multiplier_pseob_ratio_phase_domega_dtau_M1e6_q1_q2_q3_q4_M1e6_q3_id_2.h5"
+  },
+  {
+    "mass_label": "M1e6",
+    "M": 1000000.0,
+    "q_label": "q4",
+    "q": 4.0,
+    "case_id": 3,
+    "d_omega": 0.01,
+    "d_tau": 0.01,
+    "params_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/Mass_ratio/SEOBNRv5HMROM_times_pSEOB_ratio_domega_dtau_M1e6_q1_q2_q3_q4/params_injection_set_domega_dtau_M1e6_q1_q2_q3_q4.h5",
+    "data_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/Mass_ratio/SEOBNRv5HMROM_times_pSEOB_ratio_domega_dtau_M1e6_q1_q2_q3_q4/q4/data_rom_pseob_ratio_phase_domega_dtau_M1e6_q1_q2_q3_q4_M1e6_q4_id_3.h5",
+    "datalm_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/Mass_ratio/SEOBNRv5HMROM_times_pSEOB_ratio_domega_dtau_M1e6_q1_q2_q3_q4/q4/datalm_rom_pseob_ratio_phase_domega_dtau_M1e6_q1_q2_q3_q4_M1e6_q4_id_3.h5",
+    "multiplier_file": "/pbs/home/a/amahdi/pySEOBNR_deviation_2/Data/Mass_ratio/SEOBNRv5HMROM_times_pSEOB_ratio_domega_dtau_M1e6_q1_q2_q3_q4/q4/multiplier_pseob_ratio_phase_domega_dtau_M1e6_q1_q2_q3_q4_M1e6_q4_id_3.h5"
+  }
+]
